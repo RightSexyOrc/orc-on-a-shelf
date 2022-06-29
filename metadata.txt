@@ -2,7 +2,7 @@
     "name": "Orc on a Shelf",
     "description": "Orc on a Shelf",
     "collection": {
-        "id": "1"
+        "id": "1",
         "name": "OrcNation"
     }
 }
