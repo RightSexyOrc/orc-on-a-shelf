@@ -1,0 +1,5 @@
+## NFT Usage License (NFTuL 1.0a) ##
+
+1. The owner ("Owner") of the digital work associated with the NFT which refers to this license ("Work") grants to any holder of such NFT ("Holder") the non-exclusive, not sublicensable, worldwide, royalty-free right to use, copy, display, print and make publicly available the Work solely (i) for Holder’s own personal, non-commercial use and (ii) to offer the Work together with the NFT for sale, in both cases (i) and (ii) limited to the time such Holder holds such NFT. The Holder is not allowed to modify or create derivate works from the Work, unless for purely private purposes.
+
+2. The license under section 1 is not transferrable. Once the Holder transfers the NFT to a third party, she will lose her rights under section 1 and the third party will be granted the rights under section 1 under the same condition set out in this license. 
